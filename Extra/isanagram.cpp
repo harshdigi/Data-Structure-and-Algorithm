@@ -2,7 +2,7 @@
 using namespace std;
  bool isAnagram(string s, string t) {
         int arr[256] ={0};
-                        if(s.length()!= t.length())return false;
+        if(s.length()!= t.length())return false;
         for(int i=0;i<s.length();i++){
             arr[s[i]]++;
             arr[t[i]]--;

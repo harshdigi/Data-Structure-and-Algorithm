@@ -2,7 +2,7 @@
 using namespace std;
 
 vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> res=-1;
+        vector<int> res;
         sort(nums.begin(), nums.end());
         int low=0,high=nums.size()-1;
         while(low<high){
