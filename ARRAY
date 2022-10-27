@@ -1,0 +1,9 @@
+Array
+
+1.It is a group of variables of similar data types referred to by a single element.
+2.Its elements are stored in a contiguous memory location.
+3.The size of the array should be mentioned while declaring it.
+4.Array elements are always counted from zero (0) onward.
+5.Array elements can be accessed using the position of the element in the array.
+6.The array can have one or more dimensions.
+ 
